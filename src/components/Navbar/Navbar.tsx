@@ -33,7 +33,7 @@ const Menu = () => {
         className="cursor-pointer text-slate-600 hover:text-slate-300"
         onClick={() =>
           openInNewTab(
-            "https://github.com/Ryldi/Code-Smell-FE" //redirect github
+            "https://github.com/ivanadriannn/code-smell" //redirect github
           )
         }
       >
