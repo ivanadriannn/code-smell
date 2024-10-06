@@ -1,0 +1,30 @@
+{
+    "title": "Dispensables",
+    "desc": "Dispensable adalah bagian dari code smell yang dapat kita temukan ketika sebuah ada sepotong code yang tidak berguna dan tidak diperlukan, yang jika tidak ada akan membuat kode lebih bersih, lebih efisien, dan lebih mudah dipahami.",
+    "data": [
+        {
+            "id": 1,
+            "title": "Data Class"
+        },
+        {
+            "id": 2,
+            "title": "Duplicate Code"
+        },
+        {
+            "id": 3,
+            "title": "Speculative Generality"
+        },
+        {
+            "id": 4,
+            "title": "Dead Code"
+        },
+        {
+            "id": 5,
+            "title": "Lazy Class"
+        },
+        {
+            "id": 6,
+            "title": "Comments"
+        }
+    ]
+}

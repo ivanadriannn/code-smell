@@ -1,0 +1,18 @@
+{
+    "title": "Change Preventer",
+    "desc": "Change Preventer adalah suatu konsep dalam software development yang menggambarkan situasi di mana struktur kode membuatnya sulit untuk dimodifikasi. Hal ini dikarenakan ketika bagian kode tertentu diubah akan turut serta mempengaruhi bagian yang lainnya. Keadaan yang demikian memaksa kita untuk mengedit banyak bagian kode secara bertahap yang pada akhirnya dapat menghambat pengembangan dan mengurangi efisiensi dalam menghasilkan perubahan yang diinginkan.",
+    "data": [
+        {
+            "id": 7,
+            "title": "Divergent Change"
+        },
+        {
+            "id": 8,
+            "title": "Shotgun Surgery"
+        },
+        {
+            "id": 9,
+            "title": "Parallel Inheritance Hierarchies"
+        }
+    ]
+}
